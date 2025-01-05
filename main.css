@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+body{
+    font-family: 'Lato';
+}
+
+.hucberry{
+    margin-top: 50px;
+    margin-left: 17px;
+    font-size: 10px;
+    font-weight: 800;
+    margin-bottom: 29px;
+    line-height: 38.4px;
+}
+
+.agency{
+    margin-left: 17px;
+    width: 342px;
+    height: 60px;
+    top: 182px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.better{
+    margin-left: 17px;
+    width: 342px;
+    height: 60px;
+    top: 170px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+span{
+    color: #009966;
+}
+
+.container{
+     background-color: #666666;
+     border-top: 4px solid #999999
+}
+
+h2{
+    font-size: 17px;
+    font-weight: 800;
+    background: #FFBF00;
+    border-bottom: 4px solid #CC9900;
+    margin-top: 3rem;
+}
+
+.width{
+    margin-left: 17px;
+}
